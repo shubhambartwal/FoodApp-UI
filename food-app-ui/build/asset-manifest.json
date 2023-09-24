@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/food-app-ui/static/css/main.e1202118.css",
-    "main.js": "/food-app-ui/static/js/main.1b59f17e.js",
-    "static/media/meals.jpg": "/food-app-ui/static/media/meals.2971f633fc1382581cbf.jpg",
+    "main.css": "/food-app-ui/static/css/main.aac3d60a.css",
+    "main.js": "/food-app-ui/static/js/main.075c9627.js",
+    "static/media/indian_food.jpg": "/food-app-ui/static/media/indian_food.b131231671bcee644fff.jpg",
     "index.html": "/food-app-ui/index.html",
-    "main.e1202118.css.map": "/food-app-ui/static/css/main.e1202118.css.map",
-    "main.1b59f17e.js.map": "/food-app-ui/static/js/main.1b59f17e.js.map"
+    "main.aac3d60a.css.map": "/food-app-ui/static/css/main.aac3d60a.css.map",
+    "main.075c9627.js.map": "/food-app-ui/static/js/main.075c9627.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1202118.css",
-    "static/js/main.1b59f17e.js"
+    "static/css/main.aac3d60a.css",
+    "static/js/main.075c9627.js"
   ]
 }
